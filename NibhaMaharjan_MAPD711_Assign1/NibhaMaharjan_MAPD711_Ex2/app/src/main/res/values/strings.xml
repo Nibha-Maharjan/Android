@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">NibhaMaharjan_MAPD711_Ex2</string>
+    <string name="fullName">Nibha Maharjan</string>
+    <string name="qualName">Post Graduate</string>
+    <string name="profName">Developer</string>
+    <string name="hobbName">Code</string>
+    <string name="djobName">Android Developer</string>
 </resources>
